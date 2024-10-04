@@ -171,3 +171,5 @@ data/
 ICLR2022-OpenReviewData/
 templates/*/run_0/
 templates/*/*.png
+venv_AI_Scientist
+results

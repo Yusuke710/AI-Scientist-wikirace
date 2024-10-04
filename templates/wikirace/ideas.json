@@ -1,0 +1,18 @@
+[
+    {
+        "Name": "wikirace_benchmark",
+        "Title": "WikiRace Benchmark: Measuring LLM\u2019s World Knowledge and Reasoning Ability",
+        "Experiment": "Develop a benchmark where LLMs solve WikiRaces by navigating between Wikipedia articles through internal links. Evaluate the model's ability to connect topics, choose efficient paths, and demonstrate world knowledge. The LLM is tasked with finding the shortest or fastest route between two specified articles while simulating human-like exploration.",
+        "Interestingness": 5,
+        "Feasibility": 8,
+        "Novelty": 5
+    },
+    {
+        "Name": "heuristic_search",
+        "Title": "Heuristic Search for Efficient Wikipedia Navigation: Evaluating A* Algorithm",
+        "Experiment": "Implement the A* search algorithm within the WikiGraph class. Define heuristics based on Wikipedia meta-data such as the number of outlinks, article length, and category similarity. Compare the performance of A* search with the existing BFS implementation in terms of path length and time taken. Evaluate the impact of these heuristics on the performance.",
+        "Interestingness": 8,
+        "Feasibility": 7,
+        "Novelty": 8
+    }
+]

@@ -1,0 +1,9 @@
+[
+  {
+    "Name": "wikirace_benchmark",
+    "Title": "WikiRace Benchmark: Measuring LLM’s World Knowledge and Reasoning Ability",
+    "Experiment": "Develop a benchmark where LLMs solve WikiRaces by navigating between Wikipedia articles through internal links. Evaluate the model's ability to connect topics, choose efficient paths, and demonstrate world knowledge. The LLM is tasked with finding the shortest or fastest route between two specified articles while simulating human-like exploration.",
+    "Interestingness": 5,
+    "Feasibility": 8,
+    "Novelty": 5
+  }]
